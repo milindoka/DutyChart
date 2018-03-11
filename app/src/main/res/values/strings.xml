@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DutyChart</string>
+    <string name="action_settings">Settings</string>
+    <string name="sNo">S no.</string>
+    <string name="product">Product</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+
+</resources>
+
